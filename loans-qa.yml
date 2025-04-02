@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to SBI Bank loans related QA APIs "
+  contactDetails:
+    name: "Cyrano Marita - QA Lead"
+    email: "cyrano@sbi.com"
+  onCallSupport:
+    - 8967981797
+    - 8967981798

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to SBI Bank accounts related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@sbi.com"
+  onCallSupport:
+    - 8967981780
+    - 8967981781

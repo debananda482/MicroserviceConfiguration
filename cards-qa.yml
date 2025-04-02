@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to SBI Bank cards related QA APIs "
+  contactDetails:
+    name: "Cherryl Pankaj - QA Lead"
+    email: "cherryl@sbi.com"
+  onCallSupport:
+    - 8967981790
+    - 8967981791

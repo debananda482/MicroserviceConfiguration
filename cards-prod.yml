@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to SBI Bank cards related prod APIs "
+  contactDetails:
+    name: "Sandra Harald - Product Owner"
+    email: "sandra@sbi.com"
+  onCallSupport:
+    - 8967981788
+    - 8967981789
