@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to SBI Bank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@sbi.com"
+    email: "{cipher}77012d1c7aa6ddb4d1e24ba4d1dbef71a5c933e10822556c46deb526c758aa5878c4a841d6e2d89ff2095154ab730246"
   onCallSupport:
     - 8967981782
     - 8967981783
